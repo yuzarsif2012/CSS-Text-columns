@@ -1,0 +1,15 @@
+/* 1. columns-count */
+/* Metini sutunlara bolur */
+
+/* coulumns-gap */
+/* Sutunlar arasinda mesafeni (bosluqu) tenzimleyir */
+
+/* columns-rule */
+/* sutunlar arasinda xett cekir eni tipi ve rengi gosterile biler */
+
+p {
+   column-count: 3;
+   column-gap: 40px;
+   column-rule: 2px solid black;
+   column-width: 200px;
+}
